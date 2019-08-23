@@ -1,0 +1,18 @@
+h1{
+    color: aqua
+}
+p{
+    color: red
+}
+#chosen{
+font-style: italic
+}
+.underline{
+    text-decoration: underline
+}
+div p{
+ border: 1px solid blue
+}
+p:hover{
+    transform: rotate(180deg)
+}
